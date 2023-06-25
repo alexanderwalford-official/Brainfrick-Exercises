@@ -1,5 +1,8 @@
 Brainf*ck Exercises Adding user input
 Alexander Walford 2023
 
-takes user input twice and adds it together
+ask the user to enter their numbers (print)
+>++++++++++[<+++++++>-]<-><.>>+++++++++[<+++++++++>-]<---><.>>+++++++++[<+++++++++>-]<+++><.>>++++++++++[<+++++++>-]<-><.>>+++++++++[<+++++++++>-]<+><.>>++++++[<++++>-]<.>>+++++++++[<+++++++++>-]<---><.>>+++++[<+++++++++++++++++>-]<.>>+++++++++++[<+++++++>-]<.>>++++++[<++++>-]<.>>[.>]>[.>]<>.
+
+takes user input twice and adds it together (input)
 ,.><,.
